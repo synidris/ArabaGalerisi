@@ -1,0 +1,2 @@
+admin,1234,ADMIN
+personel,0000,PERSONEL
