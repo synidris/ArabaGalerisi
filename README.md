@@ -85,18 +85,4 @@ Veri katmanı ve model tasarımı
 
 👤 Sabri Kaçar
 
-KonsolArayuz
-
-Main
-
-Kullanıcı arayüzü ve program akışı
-
-▶️ Programın Çalıştırılması
-
-Projeyi bilgisayarınıza klonlayın:
-
-git clone <https://github.com/synidris/ArabaGalerisi>
-cd ArabaGalerisi
-java Main
-
-
+KonsolAraYuz
