@@ -100,6 +100,3 @@ cd ArabaGalerisi
 java Main
 
 
-Proje dizinine girin:
-
-cd ArabaGalerisi
