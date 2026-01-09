@@ -95,18 +95,13 @@ Kullanıcı arayüzü ve program akışı
 
 Projeyi bilgisayarınıza klonlayın:
 
-git clone <repo-link>
+git clone <https://github.com/synidris/ArabaGalerisi>
+
+kullanici adi : admin
+şifre:1234
 
 
-Proje dizinine girin:
 
-cd ArabaGalerisi
-
-
-Programı derleyin ve çalıştırın:
-
-javac *.java
-java Main
 
 🧪 Veri Dosyaları
 
