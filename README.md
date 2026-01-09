@@ -86,10 +86,14 @@ Veri katmanı ve model tasarımı
 👤 Sabri Kaçar
 
 KonsolAraYuz
+Main
+
+
 git clone https://github.com/synidris/ArabaGalerisi.git
 cd ArabaGalerisi
 javac *.java
 java Main
+
 
 
 
