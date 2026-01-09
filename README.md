@@ -85,15 +85,51 @@ Veri katmanı ve model tasarımı
 
 👤 Sabri Kaçar
 
-KonsolAraYuz
+KonsolArayuz
+
 Main
-""""""
-git clone https://github.com/synidris/ArabaGalerisi.git
+
+Kullanıcı arayüzü ve program akışı
+
+▶️ Programın Çalıştırılması
+
+Projeyi bilgisayarınıza klonlayın:
+
+git clone <repo-link>
+
+
+Proje dizinine girin:
+
 cd ArabaGalerisi
+
+
+Programı derleyin ve çalıştırın:
+
 javac *.java
 java Main
-"""""""
 
+🧪 Veri Dosyaları
 
+arabalar.txt → Galerideki mevcut arabalar
 
+satilan_arabalar.txt → Satılan arabalar
 
+kullanicilar.txt → Sisteme giriş yapan kullanıcılar
+
+Tüm dosyalar TXT formatında saklanmaktadır.
+
+🚀 Gelecek Geliştirmeler
+
+JavaFX ile grafik arayüz
+
+Veritabanı entegrasyonu (SQLite / MySQL)
+
+Satış raporlama ekranları
+
+Kullanıcı yetkilendirme seviyeleri
+
+Loglama ve yedekleme sistemi
+
+📄 Lisans
+
+Bu proje eğitim amaçlı olarak geliştirilmiştir.
